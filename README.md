@@ -13,6 +13,11 @@ Import data to SQL database:
 
 # DAX Queries
 ![image alt](https://github.com/bikudx742016/Credit_Card_Financial_Dashboard/blob/main/dax1.png?raw=true)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 # Project Insights- Week 53 (31st Dec)
 # WoW change: 
