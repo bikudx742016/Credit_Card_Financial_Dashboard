@@ -12,7 +12,7 @@ Import data to SQL database:
 3. import csv file into SQL
 
 # DAX Queries
-
+![image alt](https://github.com/bikudx742016/Credit_Card_Financial_Dashboard/blob/main/dax1.png?raw=true)
 
 # Project Insights- Week 53 (31st Dec)
 # WoW change: 
